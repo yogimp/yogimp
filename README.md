@@ -1,6 +1,9 @@
 <h1 align="center">Hi There👋! I'm YOGIMP</h1>
 
-<h2 align="center">Bachelor of Computer Science<br>Hankuk University for Foreign Study</h2>
+<h2 align="center">Bachelor of Computer Science
+  <br>
+  Hankuk University of Foreign Studies
+</h2>
 
 <div>
   <p align="center">
