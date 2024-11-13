@@ -13,7 +13,7 @@
 <div align="center">
     <img src="https://media1.tenor.com/m/-SV9TjUGabMAAAAd/hacker-python.gif"
          alt="Glitch Look" 
-         style="max-width: 100%; height: auto; max-height: 200px; object-fit: contain;">
+         style="max-width: 770%; height: auto; max-height: 150px; object-fit: contain;">
 </div>
 
 ###
