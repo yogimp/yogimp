@@ -176,11 +176,11 @@
 </div> 
 <h2 align="center">Contribution Graph</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fxrdhan&theme=merko&hide_border=true&hide_title=true&custom_title=Contribution%20Graph&area=true" height="190" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogimp&theme=merko&hide_border=true&hide_title=true&custom_title=Contribution%20Graph&area=true" height="190" alt="activity-graph graph"  />
 </div>
 <h2 align="center">🐍 Snake</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fxrdhan/fxrdhan/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/yogimp/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
