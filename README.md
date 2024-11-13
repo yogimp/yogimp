@@ -172,8 +172,7 @@
 </div>
 <h2 align="center">Streak</h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fxrdhan&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogimp&" alt="yogimp" />
+  <img src="https://streak-stats.demolab.com?user=yogimp&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div> 
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=fxrdhan&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  /> -->
 <h2 align="center">Contribution Graph</h2>
