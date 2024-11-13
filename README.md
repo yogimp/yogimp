@@ -168,18 +168,12 @@
 </div>
 <h2 align="center">Most Used Languages</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fxrdhan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=true&custom_title=Languages" height="190" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yogimp&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=true&custom_title=Languages" height="190" alt="languages graph"  />
 </div>
 <h2 align="center">Streak</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yogimp&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogimp&show_icons=true&locale=en&layout=compact" alt="yogimp" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogimp&show_icons=true&locale=en" alt="yogimp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogimp&" alt="yogimp" /></p>
-
 <h2 align="center">Contribution Graph</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fxrdhan&theme=merko&hide_border=true&hide_title=true&custom_title=Contribution%20Graph&area=true" height="190" alt="activity-graph graph"  />
