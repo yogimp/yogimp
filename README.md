@@ -1,18 +1,3 @@
-<h1 align="center">Hi There👋! I'm YOGIMP</h1>
-
-<h2 align="center">Bachelor of Computer Science
-  <br>
-  Hankuk University of Foreign Studies
-</h2>
-
-<div>
-  <p align="center">
-    I am a full-stack web developer with knowledge of Javascript Experience.. I'm currently deepening my knowledge in Data Scientist and Machine Learning Engineer.
-  </p>
-</div>
-
-###
-
 ###
 
 <h2 align="center">Connect with Me</h2>
