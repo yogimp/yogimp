@@ -11,13 +11,13 @@
 
 ###
 
-<h2 align="center">Most Used Languages</h2>
+<h2 align="center">Languages</h2>
 <div align="center">
   <img width="50%" src="https://github-readme-stats-nu-umber.vercel.app/api/top-langs/?username=yogimp&layout=compact&theme=merko&border_radius=10&hide=PHP,Shell,Dockerfile,Procfile" />
 </div>
-<h2 align="center">Most used tech stacks</h2>
+<h2 align="center">Tech Stacks</h2>
 <div align="center">
-  <img src="assets/icons.svg" title="PPhat - Tech Stack" alt="PPhat - Tech Stack"/>
+  <img src="icons.svg" title="PPhat - Tech Stack" alt="PPhat - Tech Stack"/>
 </div>
 <h2 align="center">Streak</h2>
 <div align="center">
