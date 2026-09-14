@@ -13,19 +13,19 @@
 
 <h2 align="center">Most Used Languages</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yogimp&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=true&custom_title=Languages" height="190" alt="languages graph"  />
+  <img width="50%" src="https://github-readme-stats-nu-umber.vercel.app/api/top-langs/?username=yogimp&layout=compact&theme=merko&border_radius=10&hide=PHP,Shell,Dockerfile,Procfile" />
 </div>
-<h2 align="center">Profile Views</h2>
+<h2 align="center">Most used tech stacks</h2>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/yogimp/count.svg?"  />
+  <img src="assets/icons.svg" title="PPhat - Tech Stack" alt="PPhat - Tech Stack"/>
 </div>
 <h2 align="center">Streak</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yogimp&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div> 
-<h2 align="center">Contribution Graph</h2>
+<h2 align="center">Github Stats</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogimp&theme=merko&hide_border=true&hide_title=true&custom_title=Contribution%20Graph&area=true" height="190" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats-nu-umber.vercel.app/api?username=yogimp&show_icons=true&count_private=true&theme=merko&show_rank=true&border_radius=10" />
 </div>
 
 ###
